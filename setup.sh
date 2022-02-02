@@ -1,4 +1,5 @@
 mkdir res
+mkdir libs
 touch requirements.txt
 
 
